@@ -1,2 +1,6 @@
 # Awesome-Portfolio-Template
-A beautiful, responsive modern portfolio template designed with HTML, CSS, and JS.
+
+🚀 **Description**: A beautiful, responsive modern portfolio template designed with HTML, CSS, and JS.
+💻 **Built with**: HTML
+
+*Avtomatik tarzda yaratilgan!*
